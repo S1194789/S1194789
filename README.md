@@ -84,6 +84,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1194789&repo=AI-Project-2---BEATs-on-BEANs&theme=blue_navy" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1194789&repo=Ros2_Turtlebot_Project&theme=blue_navy" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1194789&repo=Visual-Servoing-with-BlueROV&theme=blue_navy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1194789&repo=Underwater_Acoustic_Ray_tracing&theme=blue_navy" />
 </div>
 
 <br>
