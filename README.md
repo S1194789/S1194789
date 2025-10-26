@@ -18,9 +18,28 @@
 
 
   <!-- 🐹 왼쪽 프로필 이미지 -->
-  <p align="left">
+  <p align="middle">
     <img src="https://raw.githubusercontent.com/S1194789/S1194789/main/%EB%8B%A4%EB%9E%8C%EC%A5%90%EC%82%AC%EC%A7%84.png" width="120" style="border-radius:50%; margin-right:20px;" align="left"/>
   </p>
+
+  <div align="center">
+  
+  🪸 **Autonomous Marine Systems Engineer**  
+  🤖 _AI-driven Path Planning • Marine Robotics • ROS2 Control_
+  
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8E8&lines=Initializing+Ocean+Mission...;Deploying+Autonomous+Vessel...;Scanning+Marine+Environment+Data...;Mission+Running:+100%25+🌊" />
+
+</div>
+
+---
+
+### 🧭 Current Mission
+> “To build intelligent vessels that sense, learn, and protect the ocean.”
+
+📍 Based in Lisbon | 🌊 Erasmus Mundus MIR  
+🧠 Thesis: AI-based Path Planning for ASVs  
+⚙️ Favorite Tools: ROS 2 · MATLAB · PyTorch · OpenCV  
+🎧 Currently training BEATs on marine soundscapes  
 
   <!-- ✨ 중앙 소개 -->
   <h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
