@@ -7,7 +7,7 @@
 ---
 <!-- 파도 애니메이션 -->
 <p align="center">
-  <img src="https://media.tenor.com/7978066646937681050.gif" width="500" alt="ocean waves"/>
+  <img src="https://tenor.com/ko/view/waves-wave-blue-water-ocean-gif-7978066646937681050" width="500" alt="ocean waves"/>
 </p>
 
 ### 🪸 About
