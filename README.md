@@ -26,14 +26,19 @@
 </p>
 
 <div align="center">
-  🐹 Name : Mayonejoo 
-  📍 Based in Lisbon | 🌊 Erasmus Mundus MIR Master
-  🪸 Status : Autonomous Marine Systems Engineer 
-  🤖 Field :  Path Planning • Marine Robotics • ROS2 Control
-  🧠 Thesis: AI-based Path Planning for ASVs  
-  ⚙️ Favorite Tools: ROS 2 · MATLAB · PyTorch · OpenCV  
-  ### 🧭 Current Mission
+  🐹 <b>Name</b> : Mayonejoo <br>
+  📍 <b>Based in</b> Lisbon | 🌊 Erasmus Mundus MIR Master <br>
+  🪸 <b>Status</b> : Autonomous Marine Systems Engineer <br>
+  🤖 <b>Field</b> : Path Planning • Marine Robotics • ROS2 Control <br>
+  🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br>
+  ⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br>
+</div>
+
+---
+
+### 🧭 Current Mission
 > “To build intelligent vessels that sense, learn, and protect the ocean.”
+
  
   
   <br>
