@@ -104,14 +104,29 @@
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
-<br>
+
 
 <p align="center" style="color:#A9D6E5;">
-  🔹 Integrating marine perception with adaptive path planning.<br>
-  🔹 Building cross-domain autonomy between ASVs & AUVs.<br>
-  🔹 Writing my next research on bio-inspired navigation 🌊
+  🔹 Integrating marine perception with adaptive path planning.<br><br>
+  🔹 Building cross-domain autonomy between ASVs & AUVs.<br><br>
+  🔹 Writing my next research on bio-inspired navigation 🌊<br>
 </p>
 
+<br>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<p align="center">
+  <span style="background: linear-gradient(90deg, #00B4D8, #48CAE4, #90E0EF);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               font-size:48px;
+               font-family:'Fira Code', monospace;
+               font-weight:bold;">
+     📊 GitHub Stats 📊 
+  </span>
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
   <!-- 📊 GitHub Stats -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=S1194789&show_icons=true&theme=blue_navy&hide_border=true&title_color=00B4D8&icon_color=00B4D8" height="150"/>
