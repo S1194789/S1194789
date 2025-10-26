@@ -29,8 +29,9 @@
 
 <div align="center">
   🐹 <b>Name</b> : Mayonejoo <br><br>
-  📍 <b>Based in</b>  Erasmus Mundus MIR 🌍 | Lisbon, Portugal 🌊 <br><br>
   🪸 <b>Status</b> : Autonomous Marine Systems Engineer 🌊 <br><br>
+  📍 <b>Based in</b>  Lisbon, Portugal | Erasmus Mundus MIR 🌍  <br><br>
+  
   
 </div>
 
@@ -39,15 +40,14 @@
   <!-- ✨ 중앙 소개 -->
 
   <br>
-  ---
+
   <h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
     🌌 Current Mission 🌌
   </h2>
-  ---
 
-  🤖 <b>Field</b> : Path Planning • Marine Robotics • ROS2 Control <br>
-  🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br>
-  ⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br>
+  🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br><br>
+  🤖 <b>Field</b> : Path Planning • Marine Robotics • Control <br><br>
+  ⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br><br>
 
 
  
