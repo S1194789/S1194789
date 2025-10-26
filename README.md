@@ -63,12 +63,19 @@
     <img src="https://img.shields.io/badge/Linux-001F3F?style=for-the-badge&logo=linux&logoColor=white"/>
   </p>
 
-
-<br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
-<div align="center" style="color:#00B4D8; font-size:24px; font-family:'Fira Code', monospace; font-weight:bold;">
-  ### 🌊 Latest Repositories
-</div>
+
+<p align="center">
+  <span style="background: linear-gradient(90deg, #00B4D8, #48CAE4, #90E0EF);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               font-size:48px;
+               font-family:'Fira Code', monospace;
+               font-weight:bold;">
+    🌊 Latest Repositories 🌊
+  </span>
+</p>
+
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
 
