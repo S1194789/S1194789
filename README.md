@@ -1,5 +1,4 @@
-<img width="1676" height="342" alt="image" src="https://github.com/user-attachments/assets/09bd9bbd-6a81-43ed-897c-99fb1a45927f" /><!-- 🌊 MAIN BACKGROUND -->
-<div align="center" style="background-color:#001F3F; padding:50px 0;">
+
 
 
   <!-- 🌊 파도 배경 GIF -->
