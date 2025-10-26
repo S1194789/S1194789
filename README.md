@@ -1,22 +1,26 @@
-<!-- HEADER -->
+<!-- Radar Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:0077B6&height=120&section=header&text=🌌%20Deep%20Sea%20Mission%20Control%20🌌&fontSize=28&fontColor=FFFFFF&animation=twinkling"/>
+  <img src="https://raw.githubusercontent.com/rafaballerini/GitHub-Profile-Radar/main/src/radar.gif" width="400"/>
 </p>
 
-<h3 align="center">🤖 Autonomous Marine Systems Engineer | AI-driven Ocean Explorer 🌊</h3>
+<h3 align="center">🌊 AI Sonar Radar Active 🌊</h3>
+
+> “Detecting signals from the deep sea of data...”
+
+---
+
+### 📡 Scanning Zones
+- 🌍 North Atlantic — Path Optimization  
+- 🧠 Neural Network Sound Detection  
+- 🐬 Underwater Object Mapping  
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A8E8&center=true&width=500&lines=Initializing+Ocean+Mission...;Deploying+Autonomous+Vessel...;Scanning+Marine+Environment...;Mission+Running:+100%25+🌊" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S1194789&show_icons=true&theme=ocean_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=S1194789&theme=ocean-dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 🧭 Current Mission
-> “To build intelligent vessels that sense, learn, and protect the ocean.”
-
-```bash
-> Initializing modules...
-✔ Control Theory
-✔ Machine Learning
-✔ Bioacoustics Pipeline
-✔ Reinforcement Learning
+### 🐋 Marine Signals Received:
