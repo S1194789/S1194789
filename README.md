@@ -18,7 +18,7 @@
 
 
   <!-- 🐹 왼쪽 프로필 이미지 -->
-  <p align="middle">
+  <p align="center">
     <img src="https://raw.githubusercontent.com/S1194789/S1194789/main/%EB%8B%A4%EB%9E%8C%EC%A5%90%EC%82%AC%EC%A7%84.png" width="120" style="border-radius:50%; margin-right:20px;" align="left"/>
   </p>
 
