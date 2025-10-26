@@ -32,7 +32,7 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <!-- 🌌 Ongoing Expedition -->
-<div align="center" style="color:#00B4D8; font-size:34px; font-family:'Fira Code', monospace; font-weight:bold;">
+<div align="center" style="color:#00B4D8; font-size:60px; font-family:'Fira Code', monospace; font-weight:bold;">
   🌌 Ongoing Expedition 🌌
 </div>
 
@@ -73,13 +73,6 @@
 </div>
 
 <br>
-
-<!-- 두 번째 줄 (3개) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1194789&repo=Underwater_Acoustic_Ray_tracing&theme=blue_navy" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1194789&repo=Linear_Multivariable_Control&theme=blue_navy" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1194789&repo=AI_project_1_Image_Segmentation&theme=blue_navy" />
-</div>
 
 
   <!-- 📊 GitHub Stats -->
