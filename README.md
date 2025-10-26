@@ -5,6 +5,10 @@
 <h3 align="center">"A calm sea never made a skilled sailor." ⛵</h3>
 
 ---
+<!-- 파도 애니메이션 -->
+<p align="center">
+  <img src="https://media.tenor.com/7978066646937681050.gif" width="500" alt="ocean waves"/>
+</p>
 
 ### 🪸 About
 - 🎓 Marine Robotics · AI Path Planning  
