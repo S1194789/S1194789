@@ -1,4 +1,4 @@
-<!-- 🌊 MAIN BACKGROUND -->
+<img width="1676" height="342" alt="image" src="https://github.com/user-attachments/assets/09bd9bbd-6a81-43ed-897c-99fb1a45927f" /><!-- 🌊 MAIN BACKGROUND -->
 <div align="center" style="background-color:#001F3F; padding:50px 0;">
 
 
@@ -29,9 +29,9 @@
 
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
-<h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
+<div align="center" style="color:#00B4D8; font-size:24px; font-family:'Fira Code', monospace; font-weight:bold;">
   🌌 Ongoing Expedition 🌌
-</h2>
+</div>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
 
@@ -50,13 +50,14 @@
     <img src="https://img.shields.io/badge/Linux-001F3F?style=for-the-badge&logo=linux&logoColor=white"/>
   </p>
 
+
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
-<h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
+<div align="center" style="color:#00B4D8; font-size:24px; font-family:'Fira Code', monospace; font-weight:bold;">
   🌊 Latest Repositories
-</h2>
+</div>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
-<br>  
+<br>
 
 <!-- 첫 번째 줄 (3개) -->
 <div align="center">
