@@ -28,14 +28,14 @@
   <!-- 💡 Current Focus -->
  <br><br> <!-- 줄 하나 추가 -->
 
+<br>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
-  🌌 Ongoing Expedition 🌌
+  🌌 Ongoing Expedition 🌌�
 </h2>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
+<br>
 
- <p align="center" style="color:#89CFF0; font-size:14px;">
-    🌌 Ongoing Expedition 🌌 
-  
-  </p>
 
 🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br><br>
 🤖 <b>Field</b> : Path Planning • Marine Robotics • Control <br><br>
