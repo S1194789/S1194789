@@ -10,9 +10,11 @@
   </p>
 
   <!-- ⌨️ 타이핑 애니메이션 -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&width=500&lines=Welcome+to+mayonez's+GitHub!;Exploring+AI-driven+Marine+Robotics...;Sailing+through+Deep+Blue+Code.🌊" />
-  </p>
+ <!-- ⌨️ 감성 오션버전 타이핑 애니메이션 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00B4D8&width=550&size=20&lines=Welcome+aboard+the+calm+waves+of+mayonez’s+sea+🌊;A+small+whale+swims+by,+waving+hello+to+you+🐋💙;From+Lisbon+to+the+deep+sea,+mayonez+keeps+swimming+💙;Soft+tides+carry+little+dreams+across+the+screen+🌊✨;There’s+salt+in+the+air+and+code+in+the+breeze+🌬️;Just+a+bottle+floating+by,+carrying+kind+words+to+you+🪸;Sit+down+by+the+ocean+—+let’s+listen+to+the+waves+🌊;Every+line+here+feels+like+a+shell+washed+ashore+🐚;Somewhere+under+the+blue,+mayonez+is+smiling+🌊😊;Welcome+to+the+sea+where+stories+drift+and+stars+sleep+✨" />
+</p>
+
 
   <!-- 🐹 왼쪽 프로필 이미지 -->
   <p align="left">
