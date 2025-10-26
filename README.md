@@ -10,10 +10,11 @@
   </p>
 
   <!-- ⌨️ 타이핑 애니메이션 -->
- <!-- ⌨️ 감성 오션버전 타이핑 애니메이션 -->
+ <!-- ⌨️ 감성 오션 타이핑 (길이 통일 47자 버전) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00B4D8&width=550&size=20&lines=Welcome+aboard+the+calm+waves+of+mayonez’s+sea+🌊;A+small+whale+swims+by,+waving+hello+to+you+🐋💙;From+Lisbon+to+the+deep+sea,+mayonez+keeps+swimming+💙;Soft+tides+carry+little+dreams+across+the+screen+🌊✨;There’s+salt+in+the+air+and+code+in+the+breeze+🌬️;Just+a+bottle+floating+by,+carrying+kind+words+to+you+🪸;Sit+down+by+the+ocean+—+let’s+listen+to+the+waves+🌊;Every+line+here+feels+like+a+shell+washed+ashore+🐚;Somewhere+under+the+blue,+mayonez+is+smiling+🌊😊;Welcome+to+the+sea+where+stories+drift+and+stars+sleep+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00B4D8&width=550&size=20&lines=Soft+tides+carry+little+dreams+across+the+screen+🌊;From+Lisbon+to+the+deep+sea,+mayonez+keeps+swimming+💙;A+tiny+whale+waves+hello+beneath+the+gentle+moon+🐋;Warm+sea+breeze+whispers+stories+through+the+night+🌬️;Every+ripple+hides+a+wish+only+the+ocean+can+read+🌊;Somewhere+under+blue+skies,+mayonez+hums+softly+🐚;Little+shells+sing+quietly+when+no+one+is+around+✨;The+calm+sea+smiles+gently+and+welcomes+you+home+🌊;Dreams+drift+slowly+like+stars+upon+the+open+sea+🌌;A+cup+of+tea,+some+waves,+and+a+peaceful+night+💙" />
 </p>
+
 
 
   <!-- 🐹 왼쪽 프로필 이미지 -->
