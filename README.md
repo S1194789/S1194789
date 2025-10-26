@@ -10,9 +10,9 @@
   </p>
 
   <!-- ⌨️ 타이핑 애니메이션 -->
- <!-- ⌨️ 감성 오션 타이핑 (길이 통일 47자 버전) -->
+<!-- ⌨️ 감성+전공 오션 타이핑 (40자 내외 균일 버전) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00B4D8&width=550&size=20&lines=Soft+tides+carry+little+dreams+across+the+screen+🌊;From+Lisbon+to+the+deep+sea,+mayonez+keeps+swimming+💙;A+tiny+whale+waves+hello+beneath+the+gentle+moon+🐋;Warm+sea+breeze+whispers+stories+through+the+night+🌬️;Every+ripple+hides+a+wish+only+the+ocean+can+read+🌊;Somewhere+under+blue+skies,+mayonez+hums+softly+🐚;Little+shells+sing+quietly+when+no+one+is+around+✨;The+calm+sea+smiles+gently+and+welcomes+you+home+🌊;Dreams+drift+slowly+like+stars+upon+the+open+sea+🌌;A+cup+of+tea,+some+waves,+and+a+peaceful+night+💙" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00B4D8&width=550&size=20&lines=Welcome+aboard+mayonez’s+deep+blue+GitHub+🌊;Where+the+ocean+meets+autonomous+dreams+💙;Tides+whisper+softly+to+curious+machines+🤖;Mapping+quiet+oceans+with+lines+of+logic+🌊;Little+codes+drift+like+shells+on+the+sea+🐚;Calm+control+beneath+a+restless+surface+💫;From+Lisbon’s+coast+to+silent+underwater+paths+🌊;Between+data+and+waves,+balance+feels+alive+⚓;Each+ripple+holds+a+pattern,+a+gentle+rhythm+💙;Sailing+forward+with+AI,+wind,+and+wonder+🌬️" />
 </p>
 
 
