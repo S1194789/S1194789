@@ -36,6 +36,18 @@
 
 ---
 
+  <!-- ✨ 중앙 소개 -->
+  <h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
+    🌌 Marine Robotics • AI • Control • Path Planning
+  </h2>
+
+  <p align="center" style="color:#A9D6E5; font-size:14px;">
+    “Navigating the future of autonomous vessels through code and curiosity.”  
+    <br>— Erasmus Mundus MIR 🌍 | Lisbon, Portugal 🇵🇹
+  </p>
+
+  <br>
+
 ### 🧭 Current Mission
 > “To build intelligent vessels that sense, learn, and protect the ocean.”
 
@@ -52,17 +64,6 @@
 
 
 
-  <!-- ✨ 중앙 소개 -->
-  <h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
-    🌌 Marine Robotics • AI • Control • Path Planning
-  </h2>
-
-  <p align="center" style="color:#A9D6E5; font-size:14px;">
-    “Navigating the future of autonomous vessels through code and curiosity.”  
-    <br>— Erasmus Mundus MIR 🌍 | Lisbon, Portugal 🇵🇹
-  </p>
-
-  <br>
 
   <!-- ⚙️ 기술 뱃지 -->
   <p align="center">
