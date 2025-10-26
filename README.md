@@ -26,12 +26,11 @@
   </div>
 
   <!-- 💡 Current Focus -->
- <br><br> <!-- 줄 하나 추가 -->
 
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
-  🌌 Ongoing Expedition 🌌�
+  🌌 Ongoing Expedition 🌌
 </h2>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
@@ -51,8 +50,13 @@
     <img src="https://img.shields.io/badge/Linux-001F3F?style=for-the-badge&logo=linux&logoColor=white"/>
   </p>
 
-  
-<h2 align="center">🌊 Latest Repositories</h2>
+<br>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
+<h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
+  🌊 Latest Repositories
+</h2>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
+<br>  
 
 <!-- 첫 번째 줄 (3개) -->
 <div align="center">
