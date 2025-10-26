@@ -1,8 +1,10 @@
+<!-- 🌊 파도 배경 GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/S1194789/S1194789/main/waves.gif" 
+       width="600" 
+       alt="ocean waves" />
+</p>
 
-
-
-  <!-- 🌊 파도 배경 GIF -->
-  <img src="https://raw.githubusercontent.com/S1194789/S1194789/main/waves.gif" width="600" alt="ocean waves" />
 
 
   <!-- 💫 타이핑 애니메이션 -->
@@ -29,7 +31,7 @@
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <div align="center" style="color:#00B4D8; font-size:24px; font-family:'Fira Code', monospace; font-weight:bold;">
-  🌌 Ongoing Expedition 🌌
+  ### 🌌 Ongoing Expedition 🌌
 </div>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
@@ -53,7 +55,7 @@
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <div align="center" style="color:#00B4D8; font-size:24px; font-family:'Fira Code', monospace; font-weight:bold;">
-  🌊 Latest Repositories
+  ### 🌊 Latest Repositories
 </div>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
