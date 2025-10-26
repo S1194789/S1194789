@@ -7,9 +7,8 @@
 
 
   <!-- 💫 타이핑 애니메이션 -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+aboard+mayonez's+Deep+Blue+🌊;Where+machines+learn+to+breathe+underwater+💙;Coding+currents,+mapping+dreams+🌌;AI+meets+the+Ocean+🤖;Calm+control+beneath+a+wild+sea+⚓" />
-  </p>
+<!-- ⌨️ 감성+전공 오션 타이핑 (40자 내외 균일 버전) --> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00B4D8&width=550&size=20&lines=Welcome+aboard+mayonez’s+deep+blue+GitHub+🌊;Where+the+ocean+meets+autonomous+dreams+💙;Tides+whisper+softly+to+curious+machines+🤖;Mapping+quiet+oceans+with+lines+of+logic+🌊;Little+codes+drift+like+shells+on+the+sea+🐚;Calm+control+beneath+a+restless+surface+💫;From+Lisbon’s+coast+to+silent+underwater+paths+🌊;Between+data+and+waves,+balance+feels+alive+⚓;Each+ripple+holds+a+pattern,+a+gentle+rhythm+💙;Sailing+forward+with+AI,+wind,+and+wonder+🌬️" /> </p>
 
   <!-- 🐹 프로필 이미지 -->
   <p align="center">
@@ -30,8 +29,13 @@
  <br><br> <!-- 줄 하나 추가 -->
 
 <h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
-  🌌 Beneath the Surface 🌌
+  🌌 Ongoing Expedition 🌌
 </h2>
+
+ <p align="center" style="color:#89CFF0; font-size:14px;">
+    🌌 Ongoing Expedition 🌌 
+  
+  </p>
 
 🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br><br>
 🤖 <b>Field</b> : Path Planning • Marine Robotics • Control <br><br>
