@@ -30,16 +30,21 @@
 
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
-<div align="center" style="color:#00B4D8; font-size:24px; font-family:'Fira Code', monospace; font-weight:bold;">
-  ### 🌌 Ongoing Expedition 🌌
+
+<!-- 🌌 Ongoing Expedition -->
+<div align="center" style="color:#00B4D8; font-size:26px; font-family:'Fira Code', monospace; font-weight:bold;">
+  🌌 Ongoing Expedition 🌌
 </div>
+
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
 
-
-🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br><br>
-🤖 <b>Field</b> : Path Planning • Marine Robotics • Control <br><br>
-⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br><br>
+<!-- 중앙 정렬된 내용 -->
+<div align="center" style="color:#A9D6E5; font-size:16px; font-family:'Fira Code', monospace;">
+  🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br><br>
+  🤖 <b>Field</b> : Path Planning • Marine Robotics • Control <br><br>
+  ⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br><br>
+</div>
 
 
   <!-- ⚙️ Tech Stack -->
