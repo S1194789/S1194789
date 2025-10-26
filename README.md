@@ -49,15 +49,6 @@
   🤖 <b>Field</b> : Path Planning • Marine Robotics • Control <br><br>
   ⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br><br>
 
-
- 
-  
-  <br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A8E8&center=true&vCenter=true&width=500&lines=Initializing+Ocean+Mission...;Deploying+Autonomous+Vessel...;Scanning+Marine+Environment+Data...;Mission+Running:+100%25+🌊" />
-
-</div>
-
   <!-- ⚙️ 기술 뱃지 -->
   <p align="center">
     <img src="https://img.shields.io/badge/Python-003366?style=for-the-badge&logo=python&logoColor=white"/>
