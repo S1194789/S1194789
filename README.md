@@ -24,3 +24,15 @@
 ---
 
 ### 🐋 Marine Signals Received:
+~ ~ ~
+🌊 🐋 🌊
+🐬 🪸
+🌊 🌊
+~ ~ ~
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=120&section=footer" />
+</p>
