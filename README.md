@@ -7,10 +7,6 @@
   <!-- 🌊 파도 배경 GIF -->
   <img src="https://raw.githubusercontent.com/S1194789/S1194789/main/waves.gif" width="600" alt="ocean waves" />
 
-  <!-- 🐋 고래 애니메이션 (작동 확실한 버전) -->
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtrcjE2OGo0NjdjZTR6Znplazd5cnN6bjd6aHRyN2djZXpqc3Y1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4BSacFKI7A717y/giphy.gif" width="200" alt="whale floating"/>
-  </p>
 
   <!-- 💫 타이핑 애니메이션 -->
   <p align="center">
@@ -27,16 +23,16 @@
 
   <!-- 📘 간단 소개 -->
   <div align="center" style="color:#A9D6E5;">
-    🐹 <b>Name</b> : Mayonejoo <br>
-    🪸 <b>Status</b> : Autonomous Marine Systems Engineer 🌊 <br>
+    🐹 <b>Name</b> : Mayonejoo <br><br>
+    🪸 <b>Status</b> : Autonomous Marine Systems Engineer 🌊 <br><br>
     📍 <b>Based in</b> Lisbon, Portugal | Erasmus Mundus MIR 🌍 <br><br>
   </div>
 
   <!-- 💡 Current Focus -->
   <h2 align="center" style="color:#00B4D8;">🌌 Current Mission 🌌</h2>
-  🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br>
-  🤖 <b>Field</b> : Path Planning • Marine Robotics • Control <br>
-  ⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br>
+  🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br><br>
+  🤖 <b>Field</b> : Path Planning • Marine Robotics • Control <br><br>
+  ⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br><br>
 
   <!-- ⚙️ Tech Stack -->
   <p align="center">
@@ -46,6 +42,24 @@
     <img src="https://img.shields.io/badge/C++-0A9396?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-001F3F?style=for-the-badge&logo=linux&logoColor=white"/>
   </p>
+
+  
+## 🌊 Latest Repositories
+
+| 🧭 Project | 📘 Description | ⚙️ Tech Stack |
+|-------------|----------------|---------------|
+| [**BEATs on BEANs**](https://github.com/S1194789/AI-Project-2---BEATs-on-BEANs) | Audio Transformer fine-tuned for marine bioacoustics classification | PyTorch · BEATs · Audio ML |
+| [**ROS2 Turtlebot LQG**](https://github.com/S1194789/Ros2_Turtlebot_Project) | Feedback Linearization + LQG control design for TurtleBot | ROS2 · Python · Control Theory |
+| [**BlueROV Visual Servoing**](https://github.com/S1194789/Visual-Servoing-with-BlueROV) | Visual PID control and camera-based tracking for underwater robot | OpenCV · ROS2 · PID |
+| [**Underwater Ray Tracing**](https://github.com/S1194789/Underwater_Acoustic_Ray_tracing) | Acoustic propagation simulation and source localization | MATLAB · NumPy |
+| [**Advanced Control Report**](https://github.com/S1194789/Linear_Multivariable_Control) | Multi-variable LQG/LTR system design and analysis | MATLAB · Control Systems |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1194789&repo=AI-Project-2---BEATs-on-BEANs&theme=blue_navy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1194789&repo=Ros2_Turtlebot_Project&theme=blue_navy" />
+</p>
 
   <!-- 📊 GitHub Stats -->
   <p align="center">
