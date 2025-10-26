@@ -2,11 +2,7 @@
 
 <!-- 🌊 MAIN BACKGROUND + CENTERED CONTENT -->
 <div align="center" style="background-color:#001F3F; padding:50px 0;">
----
-  <h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
-    🌌 Marine Robotics • AI • Control • Path Planning
-  </h2>
-  ---
+
   <!-- 🌊 파도 움짤 (배경처럼 위쪽) -->
   <img src="https://raw.githubusercontent.com/S1194789/S1194789/main/waves.gif" width="600" alt="ocean waves" />
 
