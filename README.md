@@ -23,7 +23,7 @@
   <div align="center" style="color:#A9D6E5;">
     🐹 <b>Name</b> : Mayonejoo <br><br>
     🪸 <b>Status</b> : Autonomous Marine Systems Engineer 🌊 <br><br>
-    📍 <b>Based in</b> Lisbon, Portugal | Erasmus Mundus MIR 🌍 <br><br>
+    🐋 <b>Based in</b> Lisbon, Portugal | Erasmus Mundus MIR 🌍 <br><br>
   </div>
 
   <!-- 💡 Current Focus -->
@@ -99,7 +99,7 @@
                font-size:48px;
                font-family:'Fira Code', monospace;
                font-weight:bold;">
-    🪸 What’s Next 🪸
+    🐙 What’s Next? 🐙
   </span>
 </p>
 
@@ -107,9 +107,9 @@
 
 
 <p align="center" style="color:#A9D6E5;">
-  🔹 Integrating marine perception with adaptive path planning.<br><br>
-  🔹 Building cross-domain autonomy between ASVs & AUVs.<br><br>
-  🔹 Writing my next research on bio-inspired navigation 🌊<br>
+  🐠 Integrating marine perception with adaptive path planning<br><br>
+  🐋 Building cross-domain autonomy between ASVs & AUVs<br><br>
+  🪼 Writing my next research on bio-inspired navigation <br>
 </p>
 
 <br>
