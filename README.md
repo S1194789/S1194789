@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/C++-0A9396?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-001F3F?style=for-the-badge&logo=linux&logoColor=white"/>
   </p>
-
+<br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
