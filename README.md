@@ -32,9 +32,9 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <!-- 🌌 Ongoing Expedition -->
-<div align="center" style="color:#00B4D8; font-size:60px; font-family:'Fira Code', monospace; font-weight:bold;">
+<h1 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace; font-weight:bold;">
   🌌 Ongoing Expedition 🌌
-</div>
+</h1>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
