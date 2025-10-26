@@ -28,28 +28,27 @@
 </p>
 
 <div align="center">
-  🐹 <b>Name</b> : Mayonejoo <br>
-  📍 <b>Based in</b> Lisbon | 🌊 Erasmus Mundus MIR Master <br>
-  🪸 <b>Status</b> : Autonomous Marine Systems Engineer <br>
-  🤖 <b>Field</b> : Path Planning • Marine Robotics • ROS2 Control <br>
-  🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br>
-  ⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br>
+  🐹 <b>Name</b> : Mayonejoo <br><br>
+  📍 <b>Based in</b>  Erasmus Mundus MIR 🌍 | Lisbon, Portugal 🌊 <br><br>
+  🪸 <b>Status</b> : Autonomous Marine Systems Engineer 🌊 <br><br>
+  
 </div>
 
 
 
   <!-- ✨ 중앙 소개 -->
 
-
-  <p align="center" style="color:#A9D6E5; font-size:14px;">
-    “Navigating the future of autonomous vessels through code and curiosity.”  
-    <br>— Erasmus Mundus MIR 🌍 | Lisbon, Portugal 🇵🇹
-  </p>
-
   <br>
+  ---
+  <h2 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace;">
+    🌌 Current Mission 🌌
+  </h2>
+  ---
 
-### 🧭 Current Mission
-> “To build intelligent vessels that sense, learn, and protect the ocean.”
+  🤖 <b>Field</b> : Path Planning • Marine Robotics • ROS2 Control <br>
+  🧠 <b>Thesis</b> : AI-based Path Planning for ASVs <br>
+  ⚙️ <b>Favorite Tools</b> : ROS 2 · MATLAB · PyTorch · OpenCV <br>
+
 
  
   
@@ -58,12 +57,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00A8E8&center=true&vCenter=true&width=500&lines=Initializing+Ocean+Mission...;Deploying+Autonomous+Vessel...;Scanning+Marine+Environment+Data...;Mission+Running:+100%25+🌊" />
 
 </div>
-
----
-
-
-
-
 
   <!-- ⚙️ 기술 뱃지 -->
   <p align="center">
