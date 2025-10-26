@@ -31,13 +31,20 @@
 <br>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<!-- 🌌 Ongoing Expedition -->
-<h1 align="center" style="color:#00B4D8; font-family:'Fira Code', monospace; font-weight:bold;">
-  🌌 Ongoing Expedition 🌌
-</h1>
+<p align="center">
+  <span style="background: linear-gradient(90deg, #00B4D8, #48CAE4, #90E0EF);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               font-size:48px;
+               font-family:'Fira Code', monospace;
+               font-weight:bold;">
+    🌌 Ongoing Expedition 🌌
+  </span>
+</p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 <br>
+
 
 <!-- 중앙 정렬된 내용 -->
 <div align="center" style="color:#A9D6E5; font-size:16px; font-family:'Fira Code', monospace;">
