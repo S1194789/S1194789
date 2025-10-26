@@ -1,3 +1,16 @@
+
+<!-- 🌊 HEADER WAVE (Top Banner) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:0077B6&height=230&section=header&text=mayonez%20🌊&fontColor=FFFFFF&fontSize=45&animation=twinkling" />
+</p>
+
+<!-- 🌊 MAIN OCEAN BLOCK -->
+<div align="center" style="background-color:#001F3F; padding:60px 0;">
+
+  <!-- 💫 별빛 효과 -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/sparkle.gif?raw=true" width="180" alt="sparkle"/>
+
+
 <!-- 🌊 파도 배경 GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/S1194789/S1194789/main/waves.gif" 
